@@ -83,4 +83,4 @@ Below are the certificates of completion for the course.
 ![Databases and SQL for Data Science](certificates/09.jpg)
 
 ### Applied Data Science Capstone
-![Applied Data Science Capstone](certificates/1.jpg)
+![Applied Data Science Capstone](certificates/10.jpg)
